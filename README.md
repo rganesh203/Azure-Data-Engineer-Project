@@ -16,3 +16,4 @@ An expert in developing and executing data processing, analytics, and storage so
 14.	AZURE STREAMING ANALYTICS(IOT)
 15.	POWER PLATFORMS (No Code Platform)
 16.	MICROSOFT FABRIC (SAAS Platform)
+![Uploading image.png…]()
