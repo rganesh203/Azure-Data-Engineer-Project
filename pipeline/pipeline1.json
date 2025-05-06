@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Add_additional_columns_during",
+				"name": "Add_additional_columns",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
