@@ -19,7 +19,7 @@
 						"type": "DelimitedTextSource",
 						"storeSettings": {
 							"type": "AzureBlobFSReadSettings",
-							"recursive": true,
+							"fileListPath": "rawdata/Sales",
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
@@ -68,7 +68,7 @@
 									"type": "DelimitedTextSource",
 									"storeSettings": {
 										"type": "AzureBlobFSReadSettings",
-										"recursive": true,
+										"fileListPath": "rawdata/Sales",
 										"enablePartitionDiscovery": false
 									},
 									"formatSettings": {
@@ -104,7 +104,7 @@
 							],
 							"outputs": [
 								{
-									"referenceName": "DelimitedText2",
+									"referenceName": "salessink",
 									"type": "DatasetReference"
 								}
 							]
