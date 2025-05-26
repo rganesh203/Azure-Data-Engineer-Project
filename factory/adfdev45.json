@@ -1,5 +1,11 @@
 {
 	"name": "adfdev45",
+	"properties": {
+		"globalConfigurations": {
+			"factoryStagingLSReferenceName": "AzureDataLakeStorage2",
+			"factoryStagingLSType": "LinkedServiceReference"
+		}
+	},
 	"location": "centralindia",
 	"identity": {
 		"type": "SystemAssigned",
