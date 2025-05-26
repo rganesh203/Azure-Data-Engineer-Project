@@ -4,7 +4,8 @@
 		"globalConfigurations": {
 			"factoryStagingLSReferenceName": "AzureDataLakeStorage2",
 			"factoryStagingLSType": "LinkedServiceReference",
-			"factoryStagingFolderPath": "rawdata"
+			"factoryStagingFolderPath": "rawdata",
+			"PipelineBillingEnabled": "false"
 		}
 	},
 	"location": "centralindia",
